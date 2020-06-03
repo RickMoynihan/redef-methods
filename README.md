@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/tube-alloys/redef-methods.svg)](https://clojars.org/tube-alloys/redef-methods)
+
 # redef-methods
 
 A tiny Clojure library consisting of a single macro
