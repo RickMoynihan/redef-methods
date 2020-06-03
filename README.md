@@ -21,6 +21,9 @@ The macro though is fully generic and can be used in any clojure
 You could for example also use it to introduce new thread local method
 dispatches.  Not that I would recomend such a thing!
 
+**WARNING**: You may run into some problems using this with `ig/load-namespaces`
+and tools.namespace.
+
 ## Example
 
 There exists a multi-method with one or more method bodies:
